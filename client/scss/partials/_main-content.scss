@@ -1,0 +1,11 @@
+@import "vars";
+
+.main-content {
+    background: $clr-main-content-bg;
+    display: flex;
+    padding: 32px 0 17px 0;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    flex: 1 0 0;
+}
