@@ -1,0 +1,64 @@
+.test {
+  font-size: 1rem;
+}
+
+/***** global reset *****/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+body {
+  background: #F4F5F7;
+  font-family: "Inter", sans-serif;
+  font-size: 16px; /***** for the root ems *****/
+}
+
+.settings-team {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.settings-team .main-content {
+  width: 1128px;
+  height: 960px;
+  background-color: #fff;
+}
+
+.left-sidebar {
+  width: 312px;
+  height: 960px;
+  background-color: #fff;
+  padding: 32px 24px;
+}
+.left-sidebar .header .logo {
+  display: flex;
+}
+
+.logo-text {
+  font-size: 20px;
+  line-height: 40px;
+  margin-left: 10px;
+}
+
+.primary-link {
+  color: #fff;
+}
+
+.utility-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.bottom-utility-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
