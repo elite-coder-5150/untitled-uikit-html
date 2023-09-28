@@ -1,0 +1,48 @@
+$checkbox-width: 16px;
+input[type="checkbox"] {
+    position: absolute;
+    left: -9999px;
+
+    & + label {
+        position: relative;
+        display: inline-block;
+        padding: 6px 10px 6px ($checkbox-width + 10px);
+        cursor: pointer;
+
+        &:before {
+            display: block;
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 50%;
+            margin: (-$checkbox-width / 2) 0 0;
+            width: $checkbox-width;
+            height: $checkbox-width;
+            background: url("../../img/unchecked.png") no-repeat center center;
+            background-size: cover;
+        }
+    }
+
+    &:checked + label {
+        &:before {
+            background-image: url("../../img/checked.png");
+        }
+    }
+
+    &:disabled {
+        & + label {
+            opacity: 0.5;
+            cursor: not-allowed;
+
+            &:before {
+                background-position: (-$checkbox-width * 2) 0;
+            }
+        }
+
+        &:checked + label {
+            &:before {
+                background-position: (-$checkbox-width * 3) 0;
+            }
+        }
+    }
+}
