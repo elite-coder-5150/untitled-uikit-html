@@ -1,9 +1,9 @@
 @import "mixins";
 
 .utility-list {
-    @include unstylelist();
+    @include unstyledlist();
 }
 
 .bottom-utility-list {
-    @include unstylelist();
+    @include unstyledlist();
 }
