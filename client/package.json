@@ -1,0 +1,19 @@
+{
+  "name": "client",
+  "version": "0.3.2",
+  "description": "simple figma to html/scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elite-coder-5150/untitled-uikit-html.git"
+  },
+  "author": "darrell parkhouse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elite-coder-5150/untitled-uikit-html/issues"
+  },
+  "homepage": "https://github.com/elite-coder-5150/untitled-uikit-html#readme"
+}
