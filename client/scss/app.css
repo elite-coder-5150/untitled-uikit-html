@@ -1,0 +1,13 @@
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.settings-team {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.settings-team .left-sidebar {
+  width: 230px;
+}
