@@ -2,5 +2,15 @@ $base-font: "Inter", sans-serif;
 $clr-base-border: #D0D5DD;
 $clr-body-bg: #F4F5F7;
 $clr-main-content-bg: #FCFCFD;
+$clr-light-text: #fff;
 
 $clr-primary: #7F56D9;
+$clr-primary-link: $clr-primary;
+
+/** lead colors */
+$clr-incoming-request: #3aa4d2;
+$clr-initial-contact: #1875f0;
+$clr-negotatiations: #5553ce;
+$clr-contract: #9013fe;
+$clr-offer-made: #f18f1c;
+$clr-won-lead: #50d166;
