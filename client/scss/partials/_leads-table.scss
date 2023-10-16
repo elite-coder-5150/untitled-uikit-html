@@ -1,0 +1,52 @@
+/***** leads table styles *****/
+.leads-table {
+    td {
+        border-bottom: 1px solid $clr-base-border;
+        font-family: "Inter", sans-serif;
+        font-size: px-to-rem(14);
+        height: 57px;
+    }
+
+    .last {
+        border-bottom: 0;;
+    }
+
+    thead {
+        th {
+            font-size: px-to-rem(14);
+            height: 57px;
+            border-bottom: 1px solid $clr-base-border;
+        }
+    }
+
+    .status {
+        color: $clr-light-text;
+        display: inline-block;
+        padding: 6px 9px;
+        border-radius: px-to-rem(5);
+
+        &.initial-contact {
+            background: $clr-initial-contact;
+        }
+
+        &.offer-made {
+            background: $clr-offer-made
+        }
+
+        &.incoming-request {
+            background: $clr-incoming-request;
+        }
+
+        &.negeoation {
+            background-color: $clr-negotatiations;
+        }
+
+        &.won {
+            background: $clr-won-lead;
+        }
+
+        &.contract {
+            background: $clr-contract;
+        }
+    }
+}
