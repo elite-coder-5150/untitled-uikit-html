@@ -10,4 +10,13 @@
             display: flex;
         }
     }
+
+    /***** search styles *****/
+    .search {
+        .input-container {
+            border: 1px solid $clr-base-border;
+            width: 264px;
+            height: 44px;
+        }
+    }
 }
