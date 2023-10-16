@@ -1,7 +1,9 @@
+/** lead colors */
 .test {
   font-size: 1rem;
 }
 
+/** lead colors */
 /***** global reset *****/
 * {
   margin: 0;
@@ -25,11 +27,6 @@ body {
   flex-direction: row;
   width: 100%;
 }
-.settings-team .main-content {
-  width: 1128px;
-  height: 960px;
-  background-color: #fff;
-}
 
 .left-sidebar {
   width: 312px;
@@ -51,6 +48,10 @@ body {
   color: #fff;
 }
 
+.test {
+  font-size: 1rem;
+}
+
 .utility-list {
   margin: 0;
   padding: 0;
@@ -61,4 +62,91 @@ body {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+/** lead colors */
+.main-content {
+  background: #FCFCFD;
+  display: flex;
+  padding: 32px 0 17px 0;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex: 1 0 0;
+}
+
+input.custom-checkbox {
+  position: absolute;
+  left: -9999px;
+}
+input.custom-checkbox + label {
+  position: relative;
+  display: inline-block;
+  padding: 6px 10px 6px 26px;
+  cursor: pointer;
+}
+input.custom-checkbox + label:before {
+  display: block;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin: -8px 0 0;
+  width: 16px;
+  height: 16px;
+  background: url("../../img/unchecked.png") no-repeat center center;
+  background-size: cover;
+}
+input.custom-checkbox:checked + label:before {
+  background-image: url("../../img/checked.png");
+}
+input.custom-checkbox:disabled + label {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+input.custom-checkbox:disabled + label:before {
+  background-position: -32px 0;
+}
+input.custom-checkbox:disabled:checked + label:before {
+  background-position: -48px 0;
+}
+
+/***** leads table styles *****/
+.leads-table td {
+  border-bottom: 1px solid #D0D5DD;
+  font-family: "Inter", sans-serif;
+  font-size: px-to-rem(14);
+  height: 57px;
+}
+.leads-table .last {
+  border-bottom: 0;
+}
+.leads-table thead th {
+  font-size: px-to-rem(14);
+  height: 57px;
+  border-bottom: 1px solid #D0D5DD;
+}
+.leads-table .status {
+  color: #fff;
+  display: inline-block;
+  padding: 6px 9px;
+  border-radius: px-to-rem(5);
+}
+.leads-table .status.initial-contact {
+  background: #1875f0;
+}
+.leads-table .status.offer-made {
+  background: #f18f1c;
+}
+.leads-table .status.incoming-request {
+  background: #3aa4d2;
+}
+.leads-table .status.negeoation {
+  background-color: #5553ce;
+}
+.leads-table .status.won {
+  background: #50d166;
+}
+.leads-table .status.contract {
+  background: #9013fe;
 }
