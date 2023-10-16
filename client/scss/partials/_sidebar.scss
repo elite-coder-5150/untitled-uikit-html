@@ -13,10 +13,40 @@
 
     /***** search styles *****/
     .search {
+        margin-top: 24px;
+        
         .input-container {
             border: 1px solid $clr-base-border;
             width: 264px;
             height: 44px;
+            display: flex;
+            padding: 12px 14px;
+            font-size: px-to-rem(40);
+            border-radius: 8px;
+
+            input {
+                border: none;
+                font-size: px-to-rem(16);
+                margin-top: 5px;
+                width: 100%;
+                margin-left: 10px;
+                &::-webkit-input-placeholder {
+                    font-size: px-to-rem(16);
+                }
+            }
+        }
+    }
+
+    .utility-list {
+        margin-top: 24px;
+
+        li {
+            display: flex;
+            line-height: 24px;
+            margin-bottom: 20px;                
+            .icon {
+                margin-right: 10px;
+            }
         }
     }
 }
