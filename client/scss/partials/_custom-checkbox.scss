@@ -1,5 +1,5 @@
 $checkbox-width: 16px;
-input[type="checkbox"] {
+input.custom-checkbox {
     position: absolute;
     left: -9999px;
 
@@ -15,7 +15,7 @@ input[type="checkbox"] {
             position: absolute;
             left: 0;
             top: 50%;
-            margin: (-$checkbox-width / 2) 0 0;
+            margin: -8px 0 0;
             width: $checkbox-width;
             height: $checkbox-width;
             background: url("../../img/unchecked.png") no-repeat center center;
