@@ -38,10 +38,38 @@ body {
 .left-sidebar .header .logo {
   display: flex;
 }
+.left-sidebar .search {
+  margin-top: 24px;
+}
 .left-sidebar .search .input-container {
   border: 1px solid #D0D5DD;
   width: 264px;
   height: 44px;
+  display: flex;
+  padding: 12px 14px;
+  font-size: px-to-rem(40);
+  border-radius: 8px;
+}
+.left-sidebar .search .input-container input {
+  border: none;
+  font-size: px-to-rem(16);
+  margin-top: 5px;
+  width: 100%;
+  margin-left: 10px;
+}
+.left-sidebar .search .input-container input::-webkit-input-placeholder {
+  font-size: px-to-rem(16);
+}
+.left-sidebar .utility-list {
+  margin-top: 24px;
+}
+.left-sidebar .utility-list li {
+  display: flex;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.left-sidebar .utility-list li .icon {
+  margin-right: 10px;
 }
 
 .logo-text {
@@ -167,8 +195,90 @@ input.custom-checkbox:disabled:checked + label:before {
 .left-sidebar .header .logo {
   display: flex;
 }
+.left-sidebar .search {
+  margin-top: 24px;
+}
 .left-sidebar .search .input-container {
   border: 1px solid #D0D5DD;
   width: 264px;
   height: 44px;
+  display: flex;
+  padding: 12px 14px;
+  font-size: px-to-rem(40);
+  border-radius: 8px;
+}
+.left-sidebar .search .input-container input {
+  border: none;
+  font-size: px-to-rem(16);
+  margin-top: 5px;
+  width: 100%;
+  margin-left: 10px;
+}
+.left-sidebar .search .input-container input::-webkit-input-placeholder {
+  font-size: px-to-rem(16);
+}
+.left-sidebar .utility-list {
+  margin-top: 24px;
+}
+.left-sidebar .utility-list li {
+  display: flex;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+.left-sidebar .utility-list li .icon {
+  margin-right: 10px;
+}
+
+.search-icon {
+  background: url("../img/search-icon.svg") no-repeat;
+  width: 20px;
+  height: 20px;
+}
+
+.home-icon {
+  background: url("../img/home-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.dashboard-icon {
+  background: url("../img/dashboard-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.projects-icon {
+  background: url("../img/projects-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.tasks-icon {
+  background: url("../img/tasks-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.reporting-icon {
+  background: url("../img/reporting-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.users-icon {
+  background: url("../img/users-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.support-icon {
+  background: url "../img/support-icon.svg" no-repeat;
+  width: 24px;
+  height: 24px;
+}
+
+.settings-icon {
+  background: url("../img/settings-icon.svg") no-repeat;
+  width: 24px;
+  height: 24px;
 }
