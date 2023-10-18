@@ -139,6 +139,122 @@
       "oAP" : "\/.VSCodeCounter\/2023-10-12_15-37-10\/results.txt",
       "oF" : 0
     },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/details.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/details.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff-details.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff-details.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.csv",
+      "oF" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/diff.txt",
+      "oF" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.csv" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.csv",
+      "oF" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/results-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.VSCodeCounter\/2023-10-16_11-49-29\/results.txt",
+      "oF" : 0
+    },
     "\/client\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -186,6 +302,14 @@
       "rFN" : 0,
       "uCM" : 0
     },
+    "\/client\/drop-down-menu.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/client\/drop-down-menu.html",
+      "oF" : 0
+    },
     "\/client\/img\/checked.png" : {
       "ft" : 32768,
       "iS" : 227,
@@ -199,11 +323,137 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/client\/img\/dashboard-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/dashboard-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/home-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/home-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/client\/img\/logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
       "oAP" : "\/client\/img\/logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/logout-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/logout-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/olivia-rhye.png" : {
+      "ft" : 32768,
+      "iS" : 3256,
+      "oA" : 0,
+      "oAP" : "\/client\/img\/olivia-rhye.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/client\/img\/projects-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/projects-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/reporting-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/reporting-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/search-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/search-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/settings-close-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/settings-close-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/settings-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/settings-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/support-icon.png" : {
+      "ft" : 32768,
+      "iS" : 823,
+      "oA" : 0,
+      "oAP" : "\/client\/img\/support-icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/client\/img\/support-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/support-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/client\/img\/tasks-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/tasks-icon.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -221,6 +471,16 @@
       "ou" : "lpckwebp-none",
       "q" : 90,
       "rq" : 75
+    },
+    "\/client\/img\/users-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/client\/img\/users-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/client\/js\/app-min.js" : {
       "bF" : 0,
@@ -267,6 +527,21 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/client\/scss\/_icons.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/client\/scss\/_icons.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
     },
     "\/client\/scss\/app.css" : {
       "aP" : 1,
